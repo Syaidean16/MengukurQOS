@@ -62,7 +62,7 @@ Rata-rata Delay :0,00362147 sx 1000 = 3,62147 ms
 
 
 
-Jitter
+## Jitter
 
 Total jitter	 : 0,064633 s
 
