@@ -19,7 +19,7 @@
 ## 5. Jika sudah ±5 menit, selanjutnya stop melakukan capturing packet dengan menekan ikon berbentuk kotak dipojok kiri atas.
 ![WhatsApp Image 2025-02-19 at 15 19 41_6a4d25c5](https://github.com/user-attachments/assets/8bab0871-3e32-4a15-9be7-a4a91d5eab86)
 
-## 6.Selajutnya lihat properties dari packet capture yang dilakukan. Dengan menekan Statistics > Caputre File Properties, atau dapat langsung menekan Ctrl+Alt+Shift+C pada keyboard secara bersamaan. 
+## 6.Selanjutnya lihat properties dari packet capture yang dilakukan. Dengan menekan Statistics > Caputure File Properties, atau dapat langsung menekan Ctrl+Alt+Shift+C pada keyboard secara bersamaan. 
 ![Screenshot 2025-02-19 152402](https://github.com/user-attachments/assets/6029e645-f5c0-443b-b194-6f188568e2a9)
 
 ## 7. Perhatikan bagian Statistics pada halaman Capture File Properties. Pada halaman ini kita dapat melakukan perhitungan Throughput, Packet Loss, Delay, dan Jitter.
